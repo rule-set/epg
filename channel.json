@@ -1,0 +1,1739 @@
+{
+    "4gtv": {
+        "龍華電影": {
+            "tvg-id": "龙华电影",
+            "tvg-name": "龙华电影",
+            "epg-id": "litv-longturn03"
+        },
+        "華視": {
+            "tvg-id": "華視",
+            "tvg-name": "華視",
+            "epg-id": "4gtv-4gtv041"
+        },
+        "民視HD": {
+            "tvg-id": "民視HD",
+            "tvg-name": "民視HD",
+            "epg-id": "4gtv-4gtv002"
+        },
+        "民視第一台": {
+            "tvg-id": "民視第一台",
+            "tvg-name": "民視第一台",
+            "epg-id": "4gtv-4gtv003"
+        },
+        "民視台灣台": {
+            "tvg-id": "民視台灣台",
+            "tvg-name": "民視台灣台",
+            "epg-id": "4gtv-4gtv001"
+        },
+        "中視": {
+            "tvg-id": "中視",
+            "tvg-name": "中視",
+            "epg-id": "4gtv-4gtv040"
+        },
+        "MTV Live": {
+            "tvg-id": "MTVLive",
+            "tvg-name": "MTV Live",
+            "epg-id": "4gtv-live025"
+        },
+        "TVBS台劇台": {
+            "tvg-id": "TVBS台劇台",
+            "tvg-name": "TVBS台劇台",
+            "epg-id": "4gtv-live088"
+        },
+        "TVBS綜藝台": {
+            "tvg-id": "TVBS綜藝台",
+            "tvg-name": "TVBS綜藝台",
+            "epg-id": "4gtv-live087"
+        },
+        "愛爾達生活旅遊台": {
+            "tvg-id": "愛爾達生活旅遊台",
+            "tvg-name": "愛爾達生活旅遊台",
+            "epg-id": "4gtv-live120"
+        },
+        "靖天電影台": {
+            "tvg-id": "靖天電影台",
+            "tvg-name": "靖天電影台",
+            "epg-id": "4gtv-4gtv061"
+        },
+        "靖天歡樂台": {
+            "tvg-id": "靖天歡樂台",
+            "tvg-name": "靖天歡樂台",
+            "epg-id": "4gtv-4gtv054"
+        },
+        "靖天日本台": {
+            "tvg-id": "靖天日本台",
+            "tvg-name": "靖天日本台",
+            "epg-id": "4gtv-4gtv047"
+        },
+        "靖天綜合台": {
+            "tvg-id": "靖天綜合台",
+            "tvg-name": "靖天綜合台",
+            "epg-id": "4gtv-4gtv046"
+        },
+        "民視旅遊台": {
+            "tvg-id": "litv-ftv07",
+            "tvg-name": "民視旅遊台",
+            "epg-id": "litv-ftv07"
+        },
+        "民視影劇台": {
+            "tvg-id": "litv-ftv09",
+            "tvg-name": "民視影劇台",
+            "epg-id": "litv-ftv09"
+        },
+        "民視綜藝台": {
+            "tvg-id": "民視綜藝台",
+            "tvg-name": "民視綜藝台",
+            "epg-id": "4gtv-4gtv004"
+        },
+        "三立綜合台": {
+            "tvg-id": "三立綜合台",
+            "tvg-name": "三立綜合台",
+            "epg-id": "4gtv-live207"
+        },
+        "幸福空間居家台": {
+            "tvg-id": "幸福空間居家台",
+            "tvg-name": "幸福空間居家台",
+            "epg-id": "4gtv-live206"
+        },
+        "Lifetime": {
+            "tvg-id": "Lifetime",
+            "tvg-name": "Lifetime",
+            "epg-id": "4gtv-live029"
+        },
+        "Globetrotter環遊旅行家": {
+            "tvg-id": "Globetrotter",
+            "tvg-name": "Globetrotter",
+            "epg-id": "4gtv-4gtv016"
+        },
+        "ELTV生活英語台": {
+            "tvg-id": "ELTV生活英語台",
+            "tvg-name": "ELTV生活英語台",
+            "epg-id": "litv-longturn20"
+        },
+        "TraceUrban": {
+            "tvg-id": "TraceUrban",
+            "tvg-name": "Trace Urban",
+            "epg-id": "4gtv-4gtv082"
+        },
+        "Global Trekker探索世界": {
+            "tvg-id": "GlobalTrekker",
+            "tvg-name": "Global Trekker",
+            "epg-id": "4gtv-live112"
+        },
+        "影迷數位電影台": {
+            "tvg-id": "影迷數位電影台",
+            "tvg-name": "影迷數位電影台",
+            "epg-id": "4gtv-4gtv011"
+        },
+        "Smart知識頻道": {
+            "tvg-id": "Smart知識頻道",
+            "tvg-name": "Smart知識頻道",
+            "epg-id": "litv-longturn19"
+        }
+    },
+    "astro": {
+        "Astro Arena": {
+            "tvg-id": "AstroArena",
+            "tvg-name": "Astro Arena",
+            "epg-id": "235"
+        },
+        "Astro Arena 2": {
+            "tvg-id": "AstroArena2",
+            "tvg-name": "Astro Arena 2",
+            "epg-id": "457"
+        },
+        "Astro AOD": {
+            "tvg-id": "AstroAOD311",
+            "tvg-name": "Astro AOD",
+            "epg-id": "172"
+        },
+        "Astro IQIYI": {
+            "tvg-id": "AstroIQIYI",
+            "tvg-name": "Astro IQIYI",
+            "epg-id": "355"
+        },
+        "Astro SUPERSPORT": {
+            "tvg-id": "AstroSuperSport",
+            "tvg-name": "Astro SUPERSPORT",
+            "epg-id": "154"
+        },
+        "Astro SUPERSPORT 2": {
+            "tvg-id": "AstroSuperSport2",
+            "tvg-name": "Astro SUPERSPORT 2",
+            "epg-id": "138"
+        },
+        "Astro SUPERSPORT 3": {
+            "tvg-id": "AstroSuperSport3",
+            "tvg-name": "Astro SUPERSPORT 3",
+            "epg-id": "164"
+        },
+        "Astro SUPERSPORT 4": {
+            "tvg-id": "AstroSuperSport4",
+            "tvg-name": "Astro SUPERSPORT 4",
+            "epg-id": "241"
+        },
+        "beIN SPORTS": {
+            "tvg-id": "beINSports",
+            "tvg-name": "beIN SPORTS",
+            "epg-id": "236"
+        },
+        "Moonbug": {
+            "tvg-id": "Moonbug",
+            "tvg-name": "Moonbug",
+            "epg-id": "465"
+        },
+        "SPOTV": {
+            "tvg-id": "SPOTV",
+            "tvg-name": "SPOTV",
+            "epg-id": "456"
+        },
+        "SPOTV 2": {
+            "tvg-id": "SPOTV2",
+            "tvg-name": "SPOTV2",
+            "epg-id": "474"
+        },
+        "天映頻道": {
+            "tvg-id": "CelestialMoviesMalaysia",
+            "tvg-name": "天映頻道",
+            "epg-id": "134"
+        },
+        "Astro AEC": {
+            "tvg-id": "AstroAEC",
+            "tvg-name": "Astro AEC",
+            "epg-id": "182"
+        },
+        "Asian Food Network": {
+            "tvg-id": "AsianFoodNetwork",
+            "tvg-name": "Asian Food Network",
+            "epg-id": "91"
+        },
+        "Astro QJ": {
+            "tvg-id": "AstroQJ",
+            "tvg-name": "Astro QJ",
+            "epg-id": "158"
+        },
+        "八度空間": {
+            "tvg-id": "8TV",
+            "tvg-name": "八度空間",
+            "epg-id": "115"
+        }
+    },
+    "bfgd": {
+        "金鹰卡通": {
+            "tvg-id": "金鹰卡通",
+            "tvg-name": "金鹰卡通",
+            "epg-id": "4200000350"
+        },
+        "深圳卫视": {
+            "tvg-id": "深圳卫视",
+            "tvg-name": "深圳卫视",
+            "epg-id": "4200000100"
+        },
+        "北京卫视": {
+            "tvg-id": "北京卫视",
+            "tvg-name": "北京卫视",
+            "epg-id": "4200000083"
+        },
+        "湖南卫视": {
+            "tvg-id": "湖南卫视",
+            "tvg-name": "湖南卫视",
+            "epg-id": "4200000086"
+        },
+        "东方卫视": {
+            "tvg-id": "东方卫视",
+            "tvg-name": "东方卫视",
+            "epg-id": "4200000093"
+        },
+        "天津卫视": {
+            "tvg-id": "天津卫视",
+            "tvg-name": "天津卫视",
+            "epg-id": "4200000084"
+        },
+        "安徽卫视": {
+            "tvg-id": "安徽卫视",
+            "tvg-name": "安徽卫视",
+            "epg-id": "4200000096"
+        },
+        "山东卫视": {
+            "tvg-id": "山东卫视",
+            "tvg-name": "山东卫视",
+            "epg-id": "4200000099"
+        },
+        "广西卫视": {
+            "tvg-id": "广西卫视",
+            "tvg-name": "广西卫视",
+            "epg-id": "4200000116"
+        },
+        "江苏卫视": {
+            "tvg-id": "江苏卫视",
+            "tvg-name": "江苏卫视",
+            "epg-id": "4200000085"
+        },
+        "江西卫视": {
+            "tvg-id": "江西卫视",
+            "tvg-name": "江西卫视",
+            "epg-id": "4200000098"
+        },
+        "河北卫视": {
+            "tvg-id": "河北卫视",
+            "tvg-name": "河北卫视",
+            "epg-id": "4200000108"
+        },
+        "河南卫视": {
+            "tvg-id": "河南卫视",
+            "tvg-name": "河南卫视",
+            "epg-id": "4200000339"
+        },
+        "浙江卫视": {
+            "tvg-id": "浙江卫视",
+            "tvg-name": "浙江卫视",
+            "epg-id": "4200000094"
+        },
+        "海南卫视": {
+            "tvg-id": "海南卫视",
+            "tvg-name": "海南卫视",
+            "epg-id": "4200000473"
+        },
+        "湖北卫视": {
+            "tvg-id": "湖北卫视",
+            "tvg-name": "湖北卫视",
+            "epg-id": "4200000102"
+        },
+        "山西卫视": {
+            "tvg-id": "山西卫视",
+            "tvg-name": "山西卫视",
+            "epg-id": "4200000109"
+        },
+        "东南卫视": {
+            "tvg-id": "东南卫视",
+            "tvg-name": "东南卫视",
+            "epg-id": "4200000483"
+        },
+        "贵州卫视": {
+            "tvg-id": "贵州卫视",
+            "tvg-name": "贵州卫视",
+            "epg-id": "4200000101"
+        },
+        "辽宁卫视": {
+            "tvg-id": "辽宁卫视",
+            "tvg-name": "辽宁卫视",
+            "epg-id": "4200000058"
+        },
+        "重庆卫视": {
+            "tvg-id": "重庆卫视",
+            "tvg-name": "重庆卫视",
+            "epg-id": "4200000107"
+        },
+        "黑龙江卫视": {
+            "tvg-id": "黑龙江卫视",
+            "tvg-name": "黑龙江卫视",
+            "epg-id": "4200000095"
+        },
+        "内蒙古卫视": {
+            "tvg-id": "内蒙古卫视",
+            "tvg-name": "内蒙古卫视",
+            "epg-id": "4200000110"
+        },
+        "宁夏卫视": {
+            "tvg-id": "宁夏卫视",
+            "tvg-name": "宁夏卫视",
+            "epg-id": "4200000118"
+        },
+        "陕西卫视": {
+            "tvg-id": "陕西卫视",
+            "tvg-name": "陕西卫视",
+            "epg-id": "4200000512"
+        },
+        "甘肃卫视": {
+            "tvg-id": "甘肃卫视",
+            "tvg-name": "甘肃卫视",
+            "epg-id": "4200000119"
+        },
+        "吉林卫视": {
+            "tvg-id": "吉林卫视",
+            "tvg-name": "吉林卫视",
+            "epg-id": "4200000097"
+        },
+        "云南卫视": {
+            "tvg-id": "云南卫视",
+            "tvg-name": "云南卫视",
+            "epg-id": "4200000482"
+        },
+        "青海卫视": {
+            "tvg-id": "青海卫视",
+            "tvg-name": "青海卫视",
+            "epg-id": "4200000111"
+        },
+        "新疆卫视": {
+            "tvg-id": "新疆卫视",
+            "tvg-name": "新疆卫视",
+            "epg-id": "4200000150"
+        },
+        "西藏卫视": {
+            "tvg-id": "西藏卫视",
+            "tvg-name": "西藏卫视",
+            "epg-id": "4200000121"
+        },
+        "兵团卫视": {
+            "tvg-id": "兵团卫视",
+            "tvg-name": "兵团卫视",
+            "epg-id": "4200000124"
+        },
+        "延边卫视": {
+            "tvg-id": "延边卫视",
+            "tvg-name": "延边卫视",
+            "epg-id": "4200000117"
+        },
+        "农林卫视": {
+            "tvg-id": "农林卫视",
+            "tvg-name": "农林卫视",
+            "epg-id": "4200000122"
+        },
+        "求索动物": {
+            "tvg-id": "求索动物",
+            "tvg-name": "求索动物",
+            "epg-id": "4200000287"
+        },
+        "求索科学": {
+            "tvg-id": "求索科学",
+            "tvg-name": "求索科学",
+            "epg-id": "4200000286"
+        },
+        "求索生活": {
+            "tvg-id": "求索生活",
+            "tvg-name": "求索生活",
+            "epg-id": "4200000288"
+        },
+        "探索纪实": {
+            "tvg-id": "华数探索纪录",
+            "tvg-name": "华数探索纪录",
+            "epg-id": "4200000295"
+        },
+        "少儿动漫": {
+            "tvg-id": "华数少儿动漫",
+            "tvg-name": "华数少儿动漫",
+            "epg-id": "4200000293"
+        },
+        "风尚音乐": {
+            "tvg-id": "华数风尚音乐",
+            "tvg-name": "华数风尚音乐",
+            "epg-id": "4200000294"
+        },
+        "精品剧场": {
+            "tvg-id": "华数精品剧场",
+            "tvg-name": "华数精品剧场",
+            "epg-id": "4200000290"
+        },
+        "亚洲影院": {
+            "tvg-id": "华数亚洲影院",
+            "tvg-name": "华数亚洲影院",
+            "epg-id": "4200000289"
+        },
+        "欧美影院": {
+            "tvg-id": "华数欧美影院",
+            "tvg-name": "华数欧美影院",
+            "epg-id": "4200000291"
+        }
+    },
+    "cctv": {
+        "CCTV1": {
+            "tvg-id": "CCTV1",
+            "tvg-name": "CCTV1",
+            "epg-id": "cctv1"
+        },
+        "CCTV2": {
+            "tvg-id": "CCTV2",
+            "tvg-name": "CCTV2",
+            "epg-id": "cctv2"
+        },
+        "CCTV3-4K": {
+            "tvg-id": "CCTV3",
+            "tvg-name": "CCTV3",
+            "epg-id": "cctv3"
+        },
+        "CCTV4": {
+            "tvg-id": "CCTV4",
+            "tvg-name": "CCTV4",
+            "epg-id": "cctv4"
+        },
+        "CCTV5-4K": {
+            "tvg-id": "CCTV5",
+            "tvg-name": "CCTV5",
+            "epg-id": "cctv5"
+        },
+        "CCTV5+": {
+            "tvg-id": "CCTV5+",
+            "tvg-name": "CCTV5+",
+            "epg-id": "cctv5plus"
+        },
+        "CCTV6": {
+            "tvg-id": "CCTV6",
+            "tvg-name": "CCTV6",
+            "epg-id": "cctv6"
+        },
+        "CCTV7": {
+            "tvg-id": "CCTV7",
+            "tvg-name": "CCTV7",
+            "epg-id": "cctv7"
+        },
+        "CCTV8": {
+            "tvg-id": "CCTV8",
+            "tvg-name": "CCTV8",
+            "epg-id": "cctv8"
+        },
+        "CCTV9": {
+            "tvg-id": "CCTV9",
+            "tvg-name": "CCTV9",
+            "epg-id": "cctvjilu"
+        },
+        "CCTV10": {
+            "tvg-id": "CCTV10",
+            "tvg-name": "CCTV10",
+            "epg-id": "cctv10"
+        },
+        "CCTV11": {
+            "tvg-id": "CCTV11",
+            "tvg-name": "CCTV11",
+            "epg-id": "cctv11"
+        },
+        "CCTV12": {
+            "tvg-id": "CCTV12",
+            "tvg-name": "CCTV12",
+            "epg-id": "cctv12"
+        },
+        "CCTV13": {
+            "tvg-id": "CCTV13",
+            "tvg-name": "CCTV13",
+            "epg-id": "cctv13"
+        },
+        "CCTV14": {
+            "tvg-id": "CCTV14",
+            "tvg-name": "CCTV14",
+            "epg-id": "cctvchild"
+        },
+        "CCTV15": {
+            "tvg-id": "CCTV15",
+            "tvg-name": "CCTV15",
+            "epg-id": "cctv15"
+        },
+        "CCTV16": {
+            "tvg-id": "CCTV16",
+            "tvg-name": "CCTV16",
+            "epg-id": "cctv16"
+        },
+        "CCTV17": {
+            "tvg-id": "CCTV17",
+            "tvg-name": "CCTV17",
+            "epg-id": "cctv17"
+        },
+        "CCTV4K": {
+            "tvg-id": "CCTV4K",
+            "tvg-name": "CCTV4K",
+            "epg-id": "cctv4k"
+        },
+        "CCTV8K": {
+            "tvg-id": "CCTV8K",
+            "tvg-name": "CCTV8K",
+            "epg-id": "cctv8k"
+        },
+        "世界地理": {
+            "tvg-id": "世界地理",
+            "tvg-name": "世界地理",
+            "epg-id": "shijiedili"
+        },
+        "兵器科技": {
+            "tvg-id": "兵器科技",
+            "tvg-name": "兵器科技",
+            "epg-id": "guofang"
+        },
+        "央视台球": {
+            "tvg-id": "央视台球",
+            "tvg-name": "央视台球",
+            "epg-id": "taiqiu"
+        },
+        "女性时尚": {
+            "tvg-id": "女性时尚",
+            "tvg-name": "女性时尚",
+            "epg-id": "shishang"
+        },
+        "怀旧剧场": {
+            "tvg-id": "怀旧剧场",
+            "tvg-name": "怀旧剧场",
+            "epg-id": "hjjc"
+        },
+        "文化精品": {
+            "tvg-id": "文化精品",
+            "tvg-name": "文化精品",
+            "epg-id": "jingpin"
+        },
+        "电视指南": {
+            "tvg-id": "电视指南",
+            "tvg-name": "电视指南",
+            "epg-id": "zhinan"
+        },
+        "第一剧场": {
+            "tvg-id": "第一剧场",
+            "tvg-name": "第一剧场",
+            "epg-id": "diyijuchang"
+        },
+        "风云剧场": {
+            "tvg-id": "风云剧场",
+            "tvg-name": "风云剧场",
+            "epg-id": "fyjc"
+        },
+        "风云足球": {
+            "tvg-id": "风云足球",
+            "tvg-name": "风云足球",
+            "epg-id": "cctvfyzq"
+        },
+        "风云音乐": {
+            "tvg-id": "风云音乐",
+            "tvg-name": "风云音乐",
+            "epg-id": "fyyy"
+        },
+        "央视高网": {
+            "tvg-id": "高尔夫网球",
+            "tvg-name": "央视高网",
+            "epg-id": "cctvgaowang"
+        }
+    },
+    "ctitv": {
+        "中天新聞": {
+            "tvg-id": "中天新聞",
+            "tvg-name": "中天新聞",
+            "epg-id": "52"
+        }
+    },
+    "elta": {
+        "愛爾達娛樂台": {
+            "tvg-id": "愛爾達娛樂台",
+            "tvg-name": "愛爾達娛樂台",
+            "epg-id": "104"
+        },
+        "愛爾達體育3台": {
+            "tvg-id": "EltaSport3",
+            "tvg-name": "愛爾達體育3台",
+            "epg-id": "110"
+        },
+        "愛爾達體育2台": {
+            "tvg-id": "EltaSport2",
+            "tvg-name": "愛爾達體育2台",
+            "epg-id": "105"
+        },
+        "愛爾達體育1台": {
+            "tvg-id": "EltaSport1",
+            "tvg-name": "愛爾達體育1台",
+            "epg-id": "101"
+        }
+    },
+    "entertainment": {
+        "Premier Sports1": {
+            "tvg-id": "PremierSports1",
+            "tvg-name": "Premier Sports 1",
+            "epg-id": "premier-sports-1"
+        },
+        "Premier Sports2": {
+            "tvg-id": "PremierSports2",
+            "tvg-name": "Premier Sports 2",
+            "epg-id": "premier-sports-2"
+        }
+    },
+    "gdtv": {
+        "4K超高清": {
+            "tvg-id": "4K超高清",
+            "tvg-name": "4K超高清",
+            "epg-id": "16"
+        },
+        "广东少儿": {
+            "tvg-id": "广东少儿",
+            "tvg-name": "广东少儿",
+            "epg-id": "18"
+        },
+        "嘉佳卡通": {
+            "tvg-id": "嘉佳卡通",
+            "tvg-name": "嘉佳卡通",
+            "epg-id": "7"
+        },
+        "大湾区卫视": {
+            "tvg-id": "大湾区卫视",
+            "tvg-name": "大湾区卫视",
+            "epg-id": "14"
+        }
+    },
+    "hoy": {
+        "香港國際財經台": {
+            "tvg-id": "76",
+            "tvg-name": "香港國際財經台",
+            "epg-id": "76"
+        },
+        "香港開電視": {
+            "tvg-id": "77",
+            "tvg-name": "香港開電視",
+            "epg-id": "77"
+        },
+        "香港開電視資訊台": {
+            "tvg-id": "78",
+            "tvg-name": "香港開電視資訊台",
+            "epg-id": "78"
+        }
+    },
+    "live": {
+        "ANN News": {
+            "tvg-id": "ann_news",
+            "tvg-name": "ANN News",
+            "epg-id": "ANN News"
+        },
+        "Fox Live": {
+            "tvg-id": "FoxNewsChannel",
+            "tvg-name": "Fox Live",
+            "epg-id": "Fox Live"
+        }
+    },
+    "lotus": {
+        "澳門蓮花衛視": {
+            "tvg-id": "macault",
+            "tvg-name": "澳門蓮花衛視",
+            "epg-id": "macault"
+        }
+    },
+    "mewatch": {
+        "GEM": {
+            "tvg-id": "GEM",
+            "tvg-name": "Sony GEM",
+            "epg-id": "242036"
+        },
+        "新加坡5頻道": {
+            "tvg-id": "Channel5",
+            "tvg-name": "Channel 5",
+            "epg-id": "97098"
+        },
+        "新加坡8頻道": {
+            "tvg-id": "Channel8",
+            "tvg-name": "Channel 8",
+            "epg-id": "97104"
+        },
+        "新加坡U頻道": {
+            "tvg-id": "ChannelU",
+            "tvg-name": "Channel U",
+            "epg-id": "97129"
+        }
+    },
+    "movistarplus": {
+        "DAZN 西甲": {
+            "tvg-id": "Laliga",
+            "tvg-name": "DAZN Laliga",
+            "epg-id": "DAZNLI-CODE"
+        },
+        "DAZN F1": {
+            "tvg-id": "DAZNF1",
+            "tvg-name": "DAZN F1",
+            "epg-id": "MVF1-CODE"
+        },
+        "DAZN 1": {
+            "tvg-id": "DAZN1.es",
+            "tvg-name": "DAZN 1",
+            "epg-id": "M1SD-CODE"
+        },
+        "DAZN 2": {
+            "tvg-id": "DAZN2.es",
+            "tvg-name": "DAZN 2",
+            "epg-id": "M2SD-CODE"
+        }
+    },
+    "mytvsuper": {
+        "凤凰中文": {
+            "tvg-id": "凤凰中文",
+            "tvg-name": "凤凰中文",
+            "epg-id": "PCC"
+        },
+        "凤凰资讯": {
+            "tvg-id": "凤凰资讯",
+            "tvg-name": "凤凰资讯",
+            "epg-id": "PIN"
+        },
+        "凤凰香港": {
+            "tvg-id": "凤凰香港",
+            "tvg-name": "凤凰香港",
+            "epg-id": "PHK"
+        },
+        "翡翠台": {
+            "tvg-id": "81",
+            "tvg-name": "翡翠台",
+            "epg-id": "I-J"
+        },
+        "無綫新聞台": {
+            "tvg-id": "83",
+            "tvg-name": "無綫新聞台",
+            "epg-id": "I-NEWS"
+        },
+        "TVB星河台(粵語)": {
+            "tvg-id": "TVBXingHe",
+            "tvg-name": "TVB星河台",
+            "epg-id": "I-XIHE"
+        },
+        "TVB千禧經典台": {
+            "tvg-id": "TVBClassic",
+            "tvg-name": "TVB千禧經典台",
+            "epg-id": "CTVC"
+        },
+        "TVB娛樂新聞台": {
+            "tvg-id": "EntertainmentNews",
+            "tvg-name": "TVB娛樂新聞台",
+            "epg-id": "I-ENEW"
+        },
+        "MytvSuper Free": {
+            "tvg-id": "1",
+            "tvg-name": "MytvSuper Free",
+            "epg-id": "CWIN"
+        },
+        "明珠台": {
+            "tvg-id": "84",
+            "tvg-name": "明珠台",
+            "epg-id": "P"
+        },
+        "亞洲劇集台": {
+            "tvg-id": "AsianDrama",
+            "tvg-name": "亞洲劇集台",
+            "epg-id": "CTVS"
+        },
+        "華語劇集台": {
+            "tvg-id": "ChineseDrama",
+            "tvg-name": "華語劇集台",
+            "epg-id": "CDR3"
+        },
+        "美亞電影台": {
+            "tvg-id": "MeiAhMovieChannel",
+            "tvg-name": "美亞電影台",
+            "epg-id": "CMAM"
+        },
+        "tvN Asia": {
+            "tvg-id": "tvNAsia",
+            "tvg-name": "tvN Asia",
+            "epg-id": "CJTV"
+        },
+        "PopC 中國網絡電影": {
+            "tvg-id": "POPC",
+            "tvg-name": "中國網絡電影",
+            "epg-id": "POPC"
+        },
+        "AXN": {
+            "tvg-id": "AXN",
+            "tvg-name": "AXN",
+            "epg-id": "CAXN"
+        },
+        "TVB Plus": {
+            "tvg-id": "82",
+            "tvg-name": "TVB Plus",
+            "epg-id": "B"
+        },
+        "ROCK Entertainment": {
+            "tvg-id": "ROCKEntertainment",
+            "tvg-name": "ROCK Entertainment",
+            "epg-id": "CRTE"
+        },
+        "Thrill驚悚電影": {
+            "tvg-id": "Thrill",
+            "tvg-name": "Thrill",
+            "epg-id": "CTHR"
+        },
+        "KIX": {
+            "tvg-id": "KIX",
+            "tvg-name": "KIX",
+            "epg-id": "CKIX"
+        },
+        "Animax": {
+            "tvg-id": "Animax",
+            "tvg-name": "Animax",
+            "epg-id": "CANI"
+        },
+        "ROCK Action": {
+            "tvg-id": "ROCKExtreme",
+            "tvg-name": "ROCK Action",
+            "epg-id": "CRTX"
+        }
+    },
+    "now": {
+        "ABC Australia": {
+            "tvg-id": "ABCAustralia.au",
+            "tvg-name": "ABC Australia",
+            "epg-id": "561"
+        },
+        "AL Jazeera English": {
+            "tvg-id": "AlJazeeraEnglish.qa",
+            "tvg-name": "AL Jazeera English",
+            "epg-id": "325"
+        },
+        "Discovery Asia": {
+            "tvg-id": "DiscoveryAsia.sg",
+            "tvg-name": "Discovery Asia",
+            "epg-id": "208"
+        },
+        "Discovery Channel": {
+            "tvg-id": "DiscoveryChannelSoutheastAsia.sg",
+            "tvg-name": "Discovery Channel",
+            "epg-id": "209"
+        },
+        "Dream Works夢工廠動畫": {
+            "tvg-id": "DreamWorksChannelAsia",
+            "tvg-name": "DreamWorks Channel Asia",
+            "epg-id": "440"
+        },
+        "Animal Planet Asia": {
+            "tvg-id": "AnimalPlanetSoutheastAsia.sg",
+            "tvg-name": "Animal Planet Asia",
+            "epg-id": "210"
+        },
+        "NBA TV(美職籃球)": {
+            "tvg-id": "nowNBA",
+            "tvg-name": "NBA TV",
+            "epg-id": "642"
+        },
+        "beIN SPORTS 2": {
+            "tvg-id": "beINSports2",
+            "tvg-name": "beIN SPORTS 2",
+            "epg-id": "639"
+        },
+        "beIN SPORTS 3": {
+            "tvg-id": "beINSports3",
+            "tvg-name": "beIN SPORTS 3",
+            "epg-id": "643"
+        },
+        "beIN SPORTS 4": {
+            "tvg-id": "beINSports4",
+            "tvg-name": "beIN SPORTS 4",
+            "epg-id": "644"
+        },
+        "Now精選體育": {
+            "tvg-id": "nowSportsPrime",
+            "tvg-name": "Now精選體育",
+            "epg-id": "630"
+        },
+        "now Sports 1": {
+            "tvg-id": "nowSports1",
+            "tvg-name": "now Sports 1",
+            "epg-id": "631"
+        },
+        "now英超1台": {
+            "tvg-id": "nowSportsPremierLeague1",
+            "tvg-name": "now英超1台",
+            "epg-id": "621"
+        },
+        "now英超2台": {
+            "tvg-id": "nowSportsPremierLeague2",
+            "tvg-name": "now英超2台",
+            "epg-id": "622"
+        },
+        "now英超3台": {
+            "tvg-id": "nowSportsPremierLeague3",
+            "tvg-name": "now英超3台",
+            "epg-id": "623"
+        },
+        "now爆谷電影台": {
+            "tvg-id": "nowBaoguMovies",
+            "tvg-name": "now爆谷電影台",
+            "epg-id": "133"
+        },
+        "now爆谷星影台": {
+            "tvg-id": "nowBaoguSuperstars",
+            "tvg-name": "now爆谷星影台",
+            "epg-id": "138"
+        },
+        "Cinemax Asia": {
+            "tvg-id": "CinemaxAsia",
+            "tvg-name": "Cinemax Asia",
+            "epg-id": "113"
+        },
+        "HBO Asia": {
+            "tvg-id": "HBOAsia",
+            "tvg-name": "HBO Asia",
+            "epg-id": "115"
+        },
+        "HBO Family Asia": {
+            "tvg-id": "HBOFamilyAsia",
+            "tvg-name": "HBO Family Asia",
+            "epg-id": "112"
+        },
+        "HBO Hits Asia": {
+            "tvg-id": "HBOHitsAsia",
+            "tvg-name": "HBO Hits Asia",
+            "epg-id": "111"
+        },
+        "HBO Signature Asia": {
+            "tvg-id": "HBOSignatureAsia",
+            "tvg-name": "HBO Signature Asia",
+            "epg-id": "114"
+        },
+        "Now新聞台": {
+            "tvg-id": "nowNews",
+            "tvg-name": "Now新聞台",
+            "epg-id": "332"
+        },
+        "Now財經台": {
+            "tvg-id": "nowBusinessNewsChannel",
+            "tvg-name": "Now財經台",
+            "epg-id": "333"
+        },
+        "ViuTV96": {
+            "tvg-id": "ViuTV6",
+            "tvg-name": "ViuTV96",
+            "epg-id": "096"
+        },
+        "ViuTV99": {
+            "tvg-id": "ViuTV",
+            "tvg-name": "ViuTV",
+            "epg-id": "099"
+        },
+        "CI 罪案偵查頻道": {
+            "tvg-id": "CI罪案偵查頻道",
+            "tvg-name": "CI 罪案偵查頻道",
+            "epg-id": "222"
+        },
+        "History歷史頻道": {
+            "tvg-id": "History歷史頻道",
+            "tvg-name": "History歷史頻道",
+            "epg-id": "223"
+        },
+        "Love Nature": {
+            "tvg-id": "LoveNature",
+            "tvg-name": "Love Nature",
+            "epg-id": "217"
+        },
+        "Nick Jr. 兒童頻道": {
+            "tvg-id": "NickJrAsia",
+            "tvg-name": "Nick Jr. 兒童頻道",
+            "epg-id": "449"
+        },
+        "尼克兒童頻道": {
+            "tvg-id": "NickelodeonAsia",
+            "tvg-name": "尼克兒童頻道",
+            "epg-id": "444"
+        },
+        "亞洲旅遊台": {
+            "tvg-id": "亞洲旅遊台",
+            "tvg-name": "亞洲旅遊台",
+            "epg-id": "113"
+        },
+        "中天亞洲台": {
+            "tvg-id": "CTiAsia",
+            "tvg-name": "中天亞洲台",
+            "epg-id": "538"
+        },
+        "BBC News Asia": {
+            "tvg-id": "BBCWorldNewsAsiaPacific",
+            "tvg-name": "BBC News",
+            "epg-id": "320"
+        },
+        "Bloomberg Asia": {
+            "tvg-id": "BloombergTVAsia",
+            "tvg-name": "Bloomberg",
+            "epg-id": "321"
+        },
+        "CNA News": {
+            "tvg-id": "CNA",
+            "tvg-name": "CNA News",
+            "epg-id": "322"
+        },
+        "CNBC Asia": {
+            "tvg-id": "CNBCAsia",
+            "tvg-name": "CNBC",
+            "epg-id": "319"
+        },
+        "CNN Live": {
+            "tvg-id": "CNN",
+            "tvg-name": "CNN Live",
+            "epg-id": "316"
+        },
+        "DW News": {
+            "tvg-id": "DWEnglish",
+            "tvg-name": "DW News",
+            "epg-id": "324"
+        },
+        "France 24 English": {
+            "tvg-id": "France24English",
+            "tvg-name": "France 24 English",
+            "epg-id": "327"
+        },
+        "NHK World Japan": {
+            "tvg-id": "NHKWorldJapan",
+            "tvg-name": "NHK World Japan",
+            "epg-id": "328"
+        },
+        "SKY News": {
+            "tvg-id": "SkyNews",
+            "tvg-name": "SKY News",
+            "epg-id": "323"
+        },
+        "KBS World": {
+            "tvg-id": "KBSWorld",
+            "tvg-name": "KBS World",
+            "epg-id": "156"
+        },
+        "viu劇集台": {
+            "tvg-id": "Viu",
+            "tvg-name": "viu劇集台",
+            "epg-id": "102"
+        },
+        "now華劇台": {
+            "tvg-id": "nowChineseDramaChannel",
+            "tvg-name": "now華劇台",
+            "epg-id": "105"
+        },
+        "nowJelli紫金國際": {
+            "tvg-id": "nowJelli",
+            "tvg-name": "nowJelli紫金國際",
+            "epg-id": "108"
+        },
+        "動畫世界頻道": {
+            "tvg-id": "CartoonNetworkAsia",
+            "tvg-name": "動畫世界頻道",
+            "epg-id": "443"
+        },
+        "CBeebies Asia": {
+            "tvg-id": "CBeebiesAsia.uk",
+            "tvg-name": "CBeebies Asia",
+            "epg-id": "447"
+        },
+        "Russia Today": {
+            "tvg-id": "RT",
+            "tvg-name": "Russia Today",
+            "epg-id": "329"
+        }
+    },
+    "plex": {
+        "beIN SPORTS XTRA": {
+            "tvg-id": "beINSPORTSXTRA",
+            "tvg-name": "beIN SPORTS XTRA",
+            "epg-id": "60a53634126de9002e694bc4"
+        },
+        "Unbeaten": {
+            "tvg-id": "Unbeaten",
+            "tvg-name": "Unbeaten",
+            "epg-id": "633239caa6615514fb78ecf3"
+        }
+    },
+    "rthk": {
+        "港台电视31": {
+            "tvg-id": "RTHKTV31",
+            "tvg-name": "港台电视31",
+            "epg-id": "tv31"
+        },
+        "港台电视32": {
+            "tvg-id": "RTHKTV32",
+            "tvg-name": "港台电视32",
+            "epg-id": "tv32"
+        },
+        "港台电视33": {
+            "tvg-id": "RTHKTV33",
+            "tvg-name": "港台电视33",
+            "epg-id": "tv33"
+        },
+        "港台电视34": {
+            "tvg-id": "RTHKTV34",
+            "tvg-name": "港台电视34",
+            "epg-id": "tv34"
+        },
+        "港台电视35": {
+            "tvg-id": "RTHKTV35",
+            "tvg-name": "港台电视35",
+            "epg-id": "tv35"
+        },
+        "港台电视36": {
+            "tvg-id": "RTHKTV36",
+            "tvg-name": "港台电视36",
+            "epg-id": "tv36"
+        }
+    },
+    "scgd": {
+        "四川卫视": {
+            "tvg-id": "四川卫视",
+            "tvg-name": "四川卫视",
+            "epg-id": "3496"
+        },
+        "CHC家庭影院": {
+            "tvg-id": "CHC家庭影院",
+            "tvg-name": "CHC家庭影院",
+            "epg-id": "3419"
+        },
+        "CHC影迷电影": {
+            "tvg-id": "CHC高清电影",
+            "tvg-name": "CHC高清电影",
+            "epg-id": "3418"
+        },
+        "求索记录": {
+            "tvg-id": "求索记录",
+            "tvg-name": "求索记录",
+            "epg-id": "3587"
+        }
+    },
+    "singtel": {
+        "e乐": {
+            "tvg-id": "e-Le",
+            "tvg-name": "e乐",
+            "epg-id": "5501"
+        },
+        "佳乐": {
+            "tvg-id": "Jia-Le",
+            "tvg-name": "佳乐",
+            "epg-id": "5502"
+        },
+        "one": {
+            "tvg-id": "ONE",
+            "tvg-name": "one",
+            "epg-id": "5513"
+        }
+    },
+    "sky": {
+        "Euro Sport 1": {
+            "tvg-id": "Eurosport1HD",
+            "tvg-name": "Euro Sport 1",
+            "epg-id": "1726"
+        },
+        "Euro Sport 2": {
+            "tvg-id": "Eurosport2HD",
+            "tvg-name": "Euro Sport 1",
+            "epg-id": "1841"
+        },
+        "Sky Sports 英超1": {
+            "tvg-id": "SkySportsPremierLeagueHD",
+            "tvg-name": "Sky Sports Premier League",
+            "epg-id": "1303"
+        },
+        "Sky Sports Main Event": {
+            "tvg-id": "SkySportsMainEventHD",
+            "tvg-name": "Sky Sports Main Event",
+            "epg-id": "1301"
+        },
+        "Sky Sports Mix": {
+            "tvg-id": "SkySportsMix",
+            "tvg-name": "Sky Sports Mix",
+            "epg-id": "4091"
+        },
+        "Sky Sports News": {
+            "tvg-id": "SkySportsNewsHD",
+            "tvg-name": "Sky Sports News",
+            "epg-id": "4049"
+        },
+        "Sky Sports Action": {
+            "tvg-id": "SkySportsActionHD",
+            "tvg-name": "Sky Sports Action",
+            "epg-id": "1333"
+        },
+        "Sky Sport Arena": {
+            "tvg-id": "SkySportArena",
+            "tvg-name": "Sky Sport Arena",
+            "epg-id": "3839"
+        },
+        "Sky Sports Cricket": {
+            "tvg-id": "SkySportsCricketHD",
+            "tvg-name": "Sky Sports Cricket",
+            "epg-id": "1302"
+        },
+        "Sky Sports Football": {
+            "tvg-id": "SkySportsFootballHD",
+            "tvg-name": "Sky Sports Football",
+            "epg-id": "3939"
+        },
+        "Sky Sports F1": {
+            "tvg-id": "SkySportsF1",
+            "tvg-name": "Sky Sports F1",
+            "epg-id": "1306"
+        },
+        "Sky Sport Golf": {
+            "tvg-id": "SkySportGolf",
+            "tvg-name": "Sky Sport Golf",
+            "epg-id": "4026"
+        },
+        "Sky Sport Tennis": {
+            "tvg-id": "SkySportTennis",
+            "tvg-name": "Sky Sport Tennis",
+            "epg-id": "1284"
+        },
+        "TNT Sports 1": {
+            "tvg-id": "TNTSports1HD",
+            "tvg-name": "TNT Sports 1",
+            "epg-id": "3661"
+        },
+        "TNT Sports 2": {
+            "tvg-id": "TNTSports2HD",
+            "tvg-name": "TNT Sports 2",
+            "epg-id": "3663"
+        },
+        "TNT Sports 3": {
+            "tvg-id": "TNTSports3HD",
+            "tvg-name": "TNT Sports 3",
+            "epg-id": "5032"
+        },
+        "TNT Sports 4": {
+            "tvg-id": "TNTSports4HD",
+            "tvg-name": "TNT Sports 4",
+            "epg-id": "3141"
+        },
+        "Viaplay Sports 1": {
+            "tvg-id": "ViaplaySports1HD",
+            "tvg-name": "Viaplay Sports 1",
+            "epg-id": "1289"
+        },
+        "TRT World": {
+            "tvg-id": "TRTWorld",
+            "tvg-name": "TRT World",
+            "epg-id": "5071"
+        },
+        "Viaplay Sports 2": {
+            "tvg-id": "ViaplaySports2HD",
+            "tvg-name": "Viaplay Sports 2",
+            "epg-id": "1290"
+        }
+    },
+    "tbc": {
+        "CinemaWorld電影": {
+            "tvg-id": "CinemaWorld電影",
+            "tvg-name": "CinemaWorld電影",
+            "epg-id": "1239"
+        },
+        "Cartoonito": {
+            "tvg-id": "Cartoonito.uk",
+            "tvg-name": "Cartoonito",
+            "epg-id": "237"
+        },
+        "寰宇財經新聞": {
+            "tvg-id": "寰宇財經新聞",
+            "tvg-name": "寰宇財經新聞",
+            "epg-id": "149"
+        },
+        "寰宇台灣新聞": {
+            "tvg-id": "寰宇台灣新聞",
+            "tvg-name": "寰宇台灣新聞",
+            "epg-id": "1085"
+        },
+        "寰宇新聞": {
+            "tvg-id": "寰宇國際新聞",
+            "tvg-name": "寰宇國際新聞",
+            "epg-id": "307"
+        },
+        "博斯高球台": {
+            "tvg-id": "博斯高球台",
+            "tvg-name": "博斯高球台",
+            "epg-id": "224"
+        },
+        "博斯高球二台": {
+            "tvg-id": "博斯高球2台",
+            "tvg-name": "博斯高球二台",
+            "epg-id": "245"
+        },
+        "博斯魅力網": {
+            "tvg-id": "博斯魅力網",
+            "tvg-name": "博斯魅力網",
+            "epg-id": "241"
+        },
+        "博斯網球台": {
+            "tvg-id": "博斯網球台",
+            "tvg-name": "博斯網球台",
+            "epg-id": "242"
+        },
+        "博斯無限台": {
+            "tvg-id": "博斯無限台",
+            "tvg-name": "博斯無限台",
+            "epg-id": "244"
+        },
+        "博斯無限二台": {
+            "tvg-id": "博斯無限二台",
+            "tvg-name": "博斯無限二台",
+            "epg-id": "240"
+        },
+        "博斯運動一台": {
+            "tvg-id": "博斯運動一台",
+            "tvg-name": "博斯運動一台",
+            "epg-id": "1076"
+        },
+        "博斯運動二台": {
+            "tvg-id": "博斯運動二台",
+            "tvg-name": "博斯運動二台",
+            "epg-id": "243"
+        },
+        "達文西頻道": {
+            "tvg-id": "達文西頻道",
+            "tvg-name": "達文西頻道",
+            "epg-id": "238"
+        },
+        "amc電影台": {
+            "tvg-id": "amc電影台",
+            "tvg-name": "amc電影台",
+            "epg-id": "1208"
+        },
+        "華視新聞": {
+            "tvg-id": "華視新聞",
+            "tvg-name": "華視新聞",
+            "epg-id": "296"
+        },
+        "中視新聞": {
+            "tvg-id": "中視新聞",
+            "tvg-name": "中視新聞",
+            "epg-id": "1154"
+        },
+        "民視新聞": {
+            "tvg-id": "民視新聞",
+            "tvg-name": "民視新聞",
+            "epg-id": "53"
+        },
+        "三立財經新聞": {
+            "tvg-id": "三立iNEWS",
+            "tvg-name": "三立iNEWS",
+            "epg-id": "106"
+        },
+        "東森新聞": {
+            "tvg-id": "東森新聞",
+            "tvg-name": "東森新聞",
+            "epg-id": "51"
+        },
+        "東森財經新聞": {
+            "tvg-id": "東森財經新聞",
+            "tvg-name": "東森財經新聞",
+            "epg-id": "1057"
+        },
+        "非凡新聞": {
+            "tvg-id": "非凡新聞",
+            "tvg-name": "非凡新聞",
+            "epg-id": "1058"
+        },
+        "三立新聞": {
+            "tvg-id": "set_news",
+            "tvg-name": "三立新聞",
+            "epg-id": "54"
+        },
+        "台視新聞": {
+            "tvg-id": "ttv_news",
+            "tvg-name": "台視新聞",
+            "epg-id": "302"
+        },
+        "公視": {
+            "tvg-id": "公視",
+            "tvg-name": "公視",
+            "epg-id": "1013"
+        },
+        "台視": {
+            "tvg-id": "台视",
+            "tvg-name": "台視",
+            "epg-id": "8"
+        },
+        "CatchPlay電影台": {
+            "tvg-id": "CatchPlay電影台",
+            "tvg-name": "CatchPlay電影台",
+            "epg-id": "230"
+        },
+        "台視財經台": {
+            "tvg-id": "台視財經台",
+            "tvg-name": "台視財經台",
+            "epg-id": "308"
+        },
+        "非凡商業台": {
+            "tvg-id": "非凡商業台",
+            "tvg-name": "非凡商業台",
+            "epg-id": "88"
+        }
+    },
+    "tv24": {
+        "NBC News": {
+            "tvg-id": "NBCNews",
+            "tvg-name": "NBC News",
+            "epg-id": "nbc-news-now"
+        }
+    },
+    "tvbs": {
+        "TVBS": {
+            "tvg-id": "TVBS",
+            "tvg-name": "TVBS",
+            "epg-id": "3"
+        },
+        "TVBS新聞": {
+            "tvg-id": "TVBS新聞",
+            "tvg-name": "TVBS新聞",
+            "epg-id": "1"
+        },
+        "TVBS歡樂台": {
+            "tvg-id": "TVBS歡樂台",
+            "tvg-name": "TVBS歡樂台",
+            "epg-id": "2"
+        },
+        "TVBS精彩台": {
+            "tvg-id": "TVBS精彩台",
+            "tvg-name": "TVBS精彩台",
+            "epg-id": "4"
+        },
+        "TVBS亞洲台": {
+            "tvg-id": "TVBSAsia",
+            "tvg-name": "TVBS亞洲台",
+            "epg-id": "5"
+        }
+    },
+    "tvmao": {
+        "广东珠江": {
+            "tvg-id": "广东珠江",
+            "tvg-name": "广东珠江",
+            "epg-id": "GDTV2"
+        },
+        "广东新闻": {
+            "tvg-id": "广东新闻",
+            "tvg-name": "广东新闻",
+            "epg-id": "GDTV6"
+        },
+        "广东民生": {
+            "tvg-id": "广东民生",
+            "tvg-name": "广东民生",
+            "epg-id": "GDTV4"
+        },
+        "广东体育": {
+            "tvg-id": "广东体育",
+            "tvg-name": "广东体育",
+            "epg-id": "GDTV3"
+        },
+        "经济科教": {
+            "tvg-id": "经济科教",
+            "tvg-name": "经济科教",
+            "epg-id": "NANFANG1"
+        },
+        "广东影视": {
+            "tvg-id": "广东影视",
+            "tvg-name": "广东影视",
+            "epg-id": "NANFANG4"
+        },
+        "现代教育": {
+            "tvg-id": "现代教育",
+            "tvg-name": "现代教育",
+            "epg-id": "FUN-TV"
+        },
+        "珠海-1": {
+            "tvg-id": "珠海-1",
+            "tvg-name": "珠海-1",
+            "epg-id": "ZHTV1"
+        },
+        "珠海-2": {
+            "tvg-id": "珠海-2",
+            "tvg-name": "珠海-2",
+            "epg-id": "ZHTV2"
+        },
+        "广州综合": {
+            "tvg-id": "广州综合",
+            "tvg-name": "广州综合",
+            "epg-id": "GZTV1"
+        },
+        "广州新闻": {
+            "tvg-id": "广州新闻",
+            "tvg-name": "广州新闻",
+            "epg-id": "GZTV2"
+        },
+        "广州影视": {
+            "tvg-id": "广州影视",
+            "tvg-name": "广州影视",
+            "epg-id": "GZTV4"
+        },
+        "广州法治": {
+            "tvg-id": "广州法治",
+            "tvg-name": "广州法治",
+            "epg-id": "GZTV6"
+        },
+        "深圳都市频道": {
+            "tvg-id": "深圳都市频道",
+            "tvg-name": "深圳都市频道",
+            "epg-id": "SZTV2"
+        },
+        "深圳电视剧频道": {
+            "tvg-id": "深圳电视剧频道",
+            "tvg-name": "深圳电视剧频道",
+            "epg-id": "SZTV3"
+        },
+        "深圳财经生活": {
+            "tvg-id": "深圳财经生活",
+            "tvg-name": "深圳财经生活",
+            "epg-id": "SZTV4"
+        },
+        "深圳娱乐频道": {
+            "tvg-id": "深圳娱乐频道",
+            "tvg-name": "深圳娱乐频道",
+            "epg-id": "SZTV5"
+        },
+        "深圳体育健康": {
+            "tvg-id": "深圳体育健康",
+            "tvg-name": "深圳体育健康",
+            "epg-id": "SZTV6"
+        },
+        "深圳公共频道": {
+            "tvg-id": "深圳公共频道",
+            "tvg-name": "深圳公共频道",
+            "epg-id": "SZTV8"
+        },
+        "汕头综合": {
+            "tvg-id": "汕头综合",
+            "tvg-name": "汕头综合",
+            "epg-id": "SRTTV1"
+        },
+        "汕头经济生活": {
+            "tvg-id": "汕头经济生活",
+            "tvg-name": "汕头经济生活",
+            "epg-id": "SRTTV2"
+        },
+        "汕头文旅体育": {
+            "tvg-id": "汕头文旅体育",
+            "tvg-name": "汕头文旅体育",
+            "epg-id": "SRTTV3"
+        },
+        "深圳少儿频道": {
+            "tvg-id": "深圳少儿频道",
+            "tvg-name": "深圳少儿频道",
+            "epg-id": "SZTV7"
+        },
+        "上海新闻": {
+            "tvg-id": "上海新闻综合",
+            "tvg-name": "上海新闻综合",
+            "epg-id": "SHHAI1"
+        },
+        "第一财经": {
+            "tvg-id": "第一财经",
+            "tvg-name": "第一财经",
+            "epg-id": "SHHAI2"
+        },
+        "东方影视": {
+            "tvg-id": "东方影视",
+            "tvg-name": "东方影视",
+            "epg-id": "SHHAI4"
+        },
+        "纪实人文": {
+            "tvg-id": "上海纪实人文",
+            "tvg-name": "上海纪实人文",
+            "epg-id": "SHHAI6"
+        },
+        "上海都市": {
+            "tvg-id": "上海都市",
+            "tvg-name": "上海都市",
+            "epg-id": "SHHAI7"
+        },
+        "法治天地": {
+            "tvg-id": "法治天地",
+            "tvg-name": "法治天地",
+            "epg-id": "SITV3"
+        },
+        "东方财经": {
+            "tvg-id": "东方财经",
+            "tvg-name": "东方财经",
+            "epg-id": "SITV14"
+        },
+        "广东卫视": {
+            "tvg-id": "广东卫视",
+            "tvg-name": "广东卫视",
+            "epg-id": "GDTV1"
+        },
+        "三沙卫视": {
+            "tvg-id": "三沙卫视",
+            "tvg-name": "三沙卫视",
+            "epg-id": "SANSHATV"
+        },
+        "厦门卫视": {
+            "tvg-id": "厦门卫视",
+            "tvg-name": "厦门卫视",
+            "epg-id": "XMTV5"
+        },
+        "五星体育": {
+            "tvg-id": "五星体育",
+            "tvg-name": "五星体育",
+            "epg-id": "SHHAI5"
+        },
+        "CHC动作电影": {
+            "tvg-id": "CHC动作电影",
+            "tvg-name": "CHC动作电影",
+            "epg-id": "CHC1"
+        }
+    },
+    "tvpassport": {
+        "CBN News": {
+            "tvg-id": "CBNNews",
+            "tvg-name": "CBN News",
+            "epg-id": "cbn-news-channel-kugbcd/35066"
+        },
+        "CBS News Los Angeles": {
+            "tvg-id": "KCAL",
+            "tvg-name": "CBS News Los Angeles",
+            "epg-id": "cbs-kcbs-los-angeles-ca/2172"
+        },
+        "NBC4 Los Angeles": {
+            "tvg-id": "NBC4",
+            "tvg-name": "NBC4 Los Angeles",
+            "epg-id": "nbc-knbc-los-angeles-ca/2588"
+        }
+    },
+    "vercel": {
+        "ABC News Live": {
+            "tvg-id": "ABCNewsLive.us",
+            "tvg-name": "ABC News Live",
+            "epg-id": "113380"
+        },
+        "AMC East": {
+            "tvg-id": "AMCEast.us",
+            "tvg-name": "AMC East",
+            "epg-id": "10021"
+        },
+        "CBS News": {
+            "tvg-id": "CBSNews",
+            "tvg-name": "CBS News",
+            "epg-id": "104846"
+        },
+        "CNN US": {
+            "tvg-id": "CNN.us",
+            "tvg-name": "CNN US",
+            "epg-id": "10142"
+        },
+        "Fox News": {
+            "tvg-id": "FoxNewsChannel",
+            "tvg-name": "Fox News",
+            "epg-id": "16374"
+        },
+        "Fox Business Network": {
+            "tvg-id": "FoxBusinessNetwork",
+            "tvg-name": "Fox Business Network",
+            "epg-id": "58649"
+        },
+        "FOX East": {
+            "tvg-id": "FoxEast.us",
+            "tvg-name": "FOX East",
+            "epg-id": "10212"
+        },
+        "HBO East": {
+            "tvg-id": "HBOEast.us",
+            "tvg-name": "HBO East",
+            "epg-id": "10240"
+        },
+        "TNT East": {
+            "tvg-id": "TNTEast.us",
+            "tvg-name": "TNT East",
+            "epg-id": "11164"
+        },
+        "Tennis Channel": {
+            "tvg-id": "TennisChannel.us",
+            "tvg-name": "Tennis Channel",
+            "epg-id": "33395"
+        },
+        "ESPN US": {
+            "tvg-id": "ESPN.us",
+            "tvg-name": "ESPN",
+            "epg-id": "10179"
+        },
+        "ESPN2 US": {
+            "tvg-id": "ESPN2.us",
+            "tvg-name": "ESPN 2",
+            "epg-id": "12444"
+        },
+        "ESPN News US": {
+            "tvg-id": "ESPNews.us",
+            "tvg-name": "ESPN News",
+            "epg-id": "16485"
+        },
+        "ESPNU  US": {
+            "tvg-id": "ESPNU.us",
+            "tvg-name": "ESPN U",
+            "epg-id": "45654"
+        },
+        "CBS Sports Network": {
+            "tvg-id": "CBSSportsNetworkUSA",
+            "tvg-name": "CBS Sports Network",
+            "epg-id": "16365"
+        }
+    }
+}
