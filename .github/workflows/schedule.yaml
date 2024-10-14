@@ -1,0 +1,40 @@
+name: Schedule Worker
+
+on:
+  schedule:
+    - cron: '0 22 * * *'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install cloudscraper requests lxml loguru
+
+    - name: Run the script
+      run: |
+        python init.py
+        python UpdateEPG.py
+
+    - name: Commit and push .xml files
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+        git checkout -b epg
+        git rm -rf .
+        git add *.xml
+        git commit -m 'Update .xml files'
+        git push origin HEAD:epg --force
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
