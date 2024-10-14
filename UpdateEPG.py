@@ -8,7 +8,6 @@ import json
 from loguru import logger
 from contextlib import closing
 
-
 class EPGConstructor:
     """Constructs and updates the EPG XML file."""
 
