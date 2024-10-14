@@ -1,4 +1,3 @@
-from apscheduler.schedulers.background import BackgroundScheduler
 from datetime import datetime, timedelta
 from lxml import etree
 from epg import *
@@ -212,11 +211,4 @@ def run():
 
 
 if __name__ == "__main__":
-    scheduler = BackgroundScheduler()
-    scheduler.add_job(run, "interval", hours=24, next_run_time=datetime.now())
-    scheduler.start()
-    stop_event = threading.Event()
-    try:
-        stop_event.wait()
-    except (KeyboardInterrupt, SystemExit):
-        scheduler.shutdown()
+    run()
