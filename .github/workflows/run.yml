@@ -25,6 +25,7 @@ jobs:
 
     - name: Run the script
       run: |
+        python init.py
         python UpdateEPG.py
 
     - name: Commit and push .xml files
