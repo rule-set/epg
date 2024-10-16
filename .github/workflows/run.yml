@@ -28,6 +28,11 @@ jobs:
         python init.py
         python UpdateEPG.py
 
+    - name: Get the current date
+      id: date
+      run: |
+        echo "DATE=$(TZ=Asia/Shanghai date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+
     - name: Commit and push .xml files
       run: |
         git config --global user.name 'github-actions[bot]'
@@ -35,7 +40,7 @@ jobs:
         git checkout -b epg
         git rm -rf .
         git add *.xml
-        git commit -m 'Update .xml files'
+        git commit -m "[Update] ${{ steps.date.outputs.DATE }}"
         git push origin HEAD:epg --force
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
