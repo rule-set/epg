@@ -5,7 +5,7 @@ import requests
 
 class UpdateFromGDTV:
     def __init__(self):
-        self.base_url = "https://gdtv.masssoftzheng.workers.dev/?id={id}&date={date}"
+        self.base_url = "https://gdtv.rule-set.workers.dev/?id={id}&date={date}"
 
     def fetch_programs(self, id):
         programmes = []
