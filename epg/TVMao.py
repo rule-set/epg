@@ -10,7 +10,7 @@ import requests
 
 class UpdateFromTVMao:
     def __init__(self):
-        self.base_url = "https://tvmao.masssoftzheng.workers.dev/?id={id}&day={day}"
+        self.base_url = "https://tvmao.rule-set.workers.dev/?id={id}&day={day}"
         self.date_format = "%Y%m%d %H:%M"
         self.delta = 0
 
