@@ -10,7 +10,7 @@ import requests
 
 class UpdateFromTBC:
     def __init__(self):
-        self.base_url = "https://tbc.masssoftzheng.workers.dev/?id={id}&date={date}"
+        self.base_url = "https://tbc.rule-set.workers.dev/?id={id}&date={date}"
 
         self.date_format = "%Y-%m-%d %H:%M:%S"
         self.delta = 0
