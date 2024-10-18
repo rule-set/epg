@@ -9,7 +9,7 @@ import requests
 class UpdateFromNow:
     def __init__(self):
         self.base_url = (
-            "https://now.masssoftzheng.workers.dev/?channel_id={id}&day={day}"
+            "https://now.rule-set.workers.dev/?channel_id={id}&day={day}"
         )
 
         """Cookie (Chinese Version)"""
