@@ -8,7 +8,7 @@ import requests
 
 class UpdateFromMoviStarPlus:
     def __init__(self):
-        self.base_url = "https://movistarplus.masssoftzheng.workers.dev/?date={date}"
+        self.base_url = "https://movistarplus.rule-set.workers.dev/?date={date}"
 
         self.date_fmt = "%Y-%m-%d %H:%M"
         self.delta = 6
