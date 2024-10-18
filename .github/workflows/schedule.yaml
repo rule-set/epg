@@ -1,4 +1,4 @@
-name: Schedule Worker
+name: DAILY UPDATE
 
 on:
   schedule:
