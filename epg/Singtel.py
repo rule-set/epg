@@ -21,7 +21,7 @@ class UpdateFromSingtel:
         programmes = []
 
         dates = generate_formatted_date_range(
-            start_days_ago=2,
+            start_days_ago=1,
             end_days_in_future=7,
             fmt="%d%m%Y",
             tz="Asia/Singapore",
