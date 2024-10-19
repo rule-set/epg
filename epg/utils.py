@@ -55,8 +55,7 @@ def convert_date_string(date_string, format, delta):
 
 
 def convert_timestamp(timestamp):
-    dt_object = datetime.fromtimestamp(timestamp)
-    # + timedelta(hours=8)
+    dt_object = datetime.fromtimestamp(timestamp) + timedelta(hours=8)
     return dt_object.strftime("%Y%m%d%H%M%S")
 
 
