@@ -786,6 +786,11 @@
             "tvg-name": "TVB千禧經典台",
             "epg-id": "CTVC"
         },
+        "功夫台": {
+            "tvg-id": "AsianAction",
+            "tvg-name": "功夫台",
+            "epg-id": "I-AACT"
+        },
         "TVB娛樂新聞台": {
             "tvg-id": "EntertainmentNews",
             "tvg-name": "TVB娛樂新聞台",
