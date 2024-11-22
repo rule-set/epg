@@ -114,6 +114,7 @@ class EPGUpdater:
             "scgd": UpdateFromSCGD().fetch_programs,
             "singtel": UpdateFromSingtel().fetch_programs,
             "sky": UpdateFromSky().fetch_programs,
+            "starhub": UpdateFromStarHub().fetch_programs,
             "tbc": UpdateFromTBC().fetch_programs,
             "tv24": UpdateFromTV24().fetch_programs,
             "tvbs": UpdateFromTVBS().fetch_programs,
