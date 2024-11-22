@@ -868,6 +868,16 @@
         }
     },
     "now": {
+        "東森亞洲新聞": {
+            "tvg-id": "EttvAsiaNews",
+            "tvg-name": "東森亞洲新聞",
+            "epg-id": "371"
+        },
+        "東森亞洲衛視": {
+            "tvg-id": "EttvAsiaChannel",
+            "tvg-name": "東森亞洲衛視",
+            "epg-id": "162"
+        },
         "ABC Australia": {
             "tvg-id": "ABCAustralia.au",
             "tvg-name": "ABC Australia",
