@@ -18,6 +18,7 @@ from .RTHK import *
 from .SCGD import *
 from .Singtel import *
 from .Sky import *
+from .StarHub import *
 from .TBC import *
 from .TV24 import *
 from .TVBS import *
