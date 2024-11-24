@@ -6,6 +6,7 @@ from .ELTA import *
 from .Entertainment import *
 from .FourGTV import *
 from .GDTV import *
+from .HKSTV import *
 from .Hoy import *
 from .Live import *
 from .Lotus import *
