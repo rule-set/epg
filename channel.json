@@ -1478,6 +1478,38 @@
             "epg-id": "88"
         }
     },
+    "tdm": {
+        "澳門Macau": {
+            "tvg-id": "澳门MACAU",
+            "tvg-name": "澳門Macau",
+            "epg-id": "8"
+        },
+        "澳門葡文": {
+            "tvg-id": "澳视葡文",
+            "tvg-name": "澳門葡文",
+            "epg-id": "2"
+        },
+        "澳視澳門": {
+            "tvg-id": "澳视澳门",
+            "tvg-name": "澳視澳門",
+            "epg-id": "1"
+        },
+        "澳門資訊": {
+            "tvg-id": "澳视资讯",
+            "tvg-name": "澳門資訊",
+             "epg-id": "5"
+        },
+        "澳門體育": {
+            "tvg-id": "澳视体育",
+            "tvg-name": "澳門體育",
+             "epg-id": "6"
+        },
+        "澳門綜藝": {
+            "tvg-id": "澳视综艺",
+            "tvg-name": "澳門綜藝",
+             "epg-id": "7"
+        }
+    },
     "tv24": {
         "NBC News": {
             "tvg-id": "NBCNews",
