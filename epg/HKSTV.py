@@ -1,6 +1,6 @@
 from loguru import logger
 from lxml import html
-from utils import add_stop_time_to_info, convert_date_string
+from .utils import add_stop_time_to_info, convert_date_string
 
 import cloudscraper
 import json
