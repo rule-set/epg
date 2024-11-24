@@ -102,6 +102,7 @@ class EPGUpdater:
             "elta": UpdateFromELTA().fetch_programs,
             "entertainment": UpdateFromEntertainment().fetch_programs,
             "gdtv": UpdateFromGDTV().fetch_programs,
+            "hkstv": UpdateFromHKSTV().fetch_programs,
             "hoy": UpdateFromHOY().fetch_programs,
             "live": UpdateFromLive().fetch_programs,
             "lotus": UpdateFromLotus().fetch_programs,
