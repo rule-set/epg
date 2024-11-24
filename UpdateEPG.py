@@ -116,6 +116,7 @@ class EPGUpdater:
             "sky": UpdateFromSky().fetch_programs,
             "starhub": UpdateFromStarHub().fetch_programs,
             "tbc": UpdateFromTBC().fetch_programs,
+            "tdm": UpdateFromTDM().fetch_programs,
             "tv24": UpdateFromTV24().fetch_programs,
             "tvbs": UpdateFromTVBS().fetch_programs,
             "tvmao": UpdateFromTVMao().fetch_programs,
