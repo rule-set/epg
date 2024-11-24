@@ -6,7 +6,7 @@ import cloudscraper
 import json
 
 
-class UpdateFromRTHK:
+class UpdateFromHKSTV:
     def __init__(self):
         self.base_url = "http://www.hkstv.tv/index/live.html"
 
@@ -60,5 +60,5 @@ class UpdateFromRTHK:
 
 
 if __name__ == "__main__":
-    updater = UpdateFromRTHK()
-    print(updater.fetch_programs("hkstv"))
+    updater = UpdateFromHKSTV()
+    updater.fetch_programs("hkstv")
