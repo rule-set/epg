@@ -783,10 +783,10 @@
 			"tvg-name": "無綫新聞台",
 			"epg-id": "I-NEWS"
 		},
-		"TVB星河台(粵語)": {
+		"TVB星河台": {
 			"tvg-id": "TVBXingHe",
 			"tvg-name": "TVB星河台",
-			"epg-id": "I-XIHE"
+			"epg-id": "I-XHCC"
 		},
 		"TVB千禧經典台": {
 			"tvg-id": "TVBClassic",
