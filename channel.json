@@ -828,6 +828,11 @@
 			"tvg-name": "美亞電影台",
 			"epg-id": "CMAM"
 		},
+		"TVB生活台": {
+			"tvg-id": "TVB-Lifestyle",
+			"tvg-name": "TVB生活台",
+			"epg-id": "I-STYLE"
+		},
 		"tvN Asia": {
 			"tvg-id": "tvNAsia",
 			"tvg-name": "tvN Asia",
