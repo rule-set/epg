@@ -147,6 +147,11 @@
 			"tvg-name": "Astro Badminton",
 			"epg-id": "540"
 		},
+		"Astro Hua Hee Dai": {
+	           	 "tvg-id": "AstroHuaHeeDai",
+	           	 "tvg-name": "Astro Hua Hee Dai",
+	          	 "epg-id": "162"
+	        },
 		"Astro Sports Plus": {
 			"tvg-id": "AstroSportsPlus",
 			"tvg-name": "Astro Sports Plus",
