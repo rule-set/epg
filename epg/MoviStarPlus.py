@@ -6,8 +6,8 @@ import requests
 class UpdateFromMoviStarPlus:
     def __init__(self):
         self.base_url = "https://movistarplus.rule-set.workers.dev/?id={id}&date={date}"
-        self.date_fmt = "%Y-%m-%d %H:%M"
-        self.delta = 6
+        self.date_fmt = "%Y-%m-%dT%H:%M:%S%z"
+        self.delta = 7
 
     def fetch_programs(self, id):
         programmes = []
