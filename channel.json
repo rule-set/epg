@@ -744,22 +744,22 @@
 		"DAZN 西甲": {
 			"tvg-id": "Laliga",
 			"tvg-name": "DAZN Laliga",
-			"epg-id": "DAZNLI-CODE"
+			"epg-id": "daznli"
 		},
 		"DAZN F1": {
 			"tvg-id": "DAZNF1",
 			"tvg-name": "DAZN F1",
-			"epg-id": "MVF1-CODE"
+			"epg-id": "mvf1"
 		},
 		"DAZN 1": {
 			"tvg-id": "DAZN1.es",
 			"tvg-name": "DAZN 1",
-			"epg-id": "M1SD-CODE"
+			"epg-id": "m1sd"
 		},
 		"DAZN 2": {
 			"tvg-id": "DAZN2.es",
 			"tvg-name": "DAZN 2",
-			"epg-id": "M2SD-CODE"
+			"epg-id": "m2sd"
 		}
 	},
 	"mytvsuper": {
