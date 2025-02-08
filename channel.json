@@ -763,6 +763,11 @@
 		}
 	},
 	"mytvsuper": {
+		"TVB兒童台": {
+			"tvg-id": "SUPER-Kids-Channel",
+			"tvg-name": "SUPER Kids Channel",
+			"epg-id": "KID"
+		},
 		"凤凰中文": {
 			"tvg-id": "凤凰中文",
 			"tvg-name": "凤凰中文",
