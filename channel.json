@@ -1352,6 +1352,11 @@
 			"tvg-name": "Hub Sports 1",
 			"epg-id": "6e5e72ef-9fa6-4007-9537-74e7d08f51c4"
 		},
+		"Hub Sports 2": {
+			"tvg-id": "HubSports2",
+			"tvg-name": "Hub Sports 2",
+			"epg-id": "3c292157-4cf2-48bf-9608-c0ef8ab79cc5"
+		},
 		"Hub都會": {
 			"tvg-id": "HubECity",
 			"tvg-name": "HubECity",
