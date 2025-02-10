@@ -960,6 +960,16 @@
 			"tvg-name": "now Sports 1",
 			"epg-id": "631"
 		},
+		"now Sports 2": {
+			"tvg-id": "nowSports2",
+			"tvg-name": "now Sports 2",
+			"epg-id": "632"
+		},
+		"now Sports 3": {
+			"tvg-id": "nowSports3",
+			"tvg-name": "now Sports 3",
+			"epg-id": "633"
+		},
 		"now英超1台": {
 			"tvg-id": "nowSportsPremierLeague1",
 			"tvg-name": "now英超1台",
