@@ -1,5 +1,10 @@
 {
 	"4gtv": {
+		"Live ABC 互動英語頻道": {
+			"tvg-id": "Live ABC 互動英語頻道",
+			"tvg-name": "Live ABC 互動英語頻道",
+			"epg-id": "4gtv-4gtv030"
+		},
 		"龍華電影": {
 			"tvg-id": "龙华电影",
 			"tvg-name": "龙华电影",
@@ -1369,6 +1374,26 @@
 		}
 	},
 	"tbc": {
+		"三立台灣台": {
+			"tvg-id": "SetTaiWan",
+			"tvg-name": "三立台灣台",
+			"epg-id": "29"
+		},
+		"三立都會台": {
+			"tvg-id": "SetMetro",
+			"tvg-name": "三立都會台",
+			"epg-id": "30"
+		},
+		"東森幼幼": {
+		   	"tvg-id": "EttvYoYo",
+		    	"tvg-name": "東森幼幼",
+			"epg-id": "25"
+		},
+		"東森電影台": {
+			"tvg-id": "EttvMovie",
+			"tvg-name": "東森電影台",
+			"epg-id": "62"
+		},
 		"CinemaWorld電影": {
 			"tvg-id": "CinemaWorld電影",
 			"tvg-name": "CinemaWorld電影",
